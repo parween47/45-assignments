@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var favorite_transport = ["Motor Cycle", "W-11", "chinchi", "Car", "Bicycle"];
 console.log("I always prefer", favorite_transport[0], "on any other vehical for pakistani street.");
 console.log(favorite_transport[1], "is the queen of all bus transport in Karachi");

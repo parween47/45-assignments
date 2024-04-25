@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var Names = ["Anoosh", "Noman", "Faizan", "Fahad", "Darain"];
 console.log(Names[0]);
 console.log(Names[1]);

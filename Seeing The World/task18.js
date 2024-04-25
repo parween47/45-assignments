@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var PlaceToVisit = ["Madina", "Baghdad", "Ajmer", "Istanbol", "Ziarat"];
 // original
 console.log(PlaceToVisit);

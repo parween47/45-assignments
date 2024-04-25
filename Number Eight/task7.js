@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var addition = 4 + 4;
 var substraction = 10 - 2;
 var multiplication = 2 * 4;
